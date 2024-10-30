@@ -1,0 +1,255 @@
+# Copyright (C) 2017 LIKE.agency
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Button Widget for FontAwesome by LIKE.agency 1.0\n"
+"Report-Msgid-Bugs-To: http://like.agency\n"
+"POT-Creation-Date: 2017-11-17 09:27:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Like Agency <info@like08.pl>\n"
+"Language-Team: Like Agency <info@like08.pl>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_"
+"nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2;"
+"\n"
+"X-Textdomain-Support: yes\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Button Widget for FontAwesome by LIKE.agency"
+msgstr ""
+
+#: lbfa_widget.php:82
+msgid "Widget title"
+msgstr ""
+
+#: lbfa_widget.php:84
+msgid "Title heading tag"
+msgstr ""
+
+#: lbfa_widget.php:93
+msgid "Content"
+msgstr ""
+
+#: lbfa_widget.php:95
+msgid "FontAwesome icon class"
+msgstr ""
+
+#: lbfa_widget.php:97
+msgid "FontAwesome Cheatsheet"
+msgstr ""
+
+#: lbfa_widget.php:97
+msgid "use e.g. "
+msgstr ""
+
+#: lbfa_widget.php:98
+msgid "Icon in circle"
+msgstr ""
+
+#: lbfa_widget.php:100
+msgid "Icon color"
+msgstr ""
+
+#: lbfa_widget.php:102
+msgid "Icon background color"
+msgstr ""
+
+#: lbfa_widget.php:106
+msgid "Icon position"
+msgstr ""
+
+#: lbfa_widget.php:107
+msgid "Top"
+msgstr ""
+
+#: lbfa_widget.php:108
+msgid "Left"
+msgstr ""
+
+#: lbfa_widget.php:109
+msgid "Right"
+msgstr ""
+
+#: lbfa_widget.php:114
+msgid "Add link"
+msgstr ""
+
+#: lbfa_widget.php:117
+msgid "Link url"
+msgstr ""
+
+#: lbfa_widget.php:121
+msgid "Open link in new window"
+msgstr ""
+
+#: lbfa_widget.php:123
+msgid "No follow"
+msgstr ""
+
+#: lbfa_widget.php:126
+msgid "Link as button"
+msgstr ""
+
+#: lbfa_widget.php:128
+msgid "Button text"
+msgstr ""
+
+#: lbfa_widget.php:132
+msgid "Custom class for button"
+msgstr ""
+
+#: lbfa_widget.php:134
+msgid ""
+"Careful: the default button class provided by this widget will be "
+"overwritten."
+msgstr ""
+
+#: lbfa_widget.php:135
+msgid "Custom class name for button"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "LIKE.agency"
+msgstr ""
+
+#: lbfa_widget.php:299
+msgid "Show us some love!"
+msgstr ""
+
+#: lbfa_widget.php:311
+msgid "Advanced widget settings"
+msgstr ""
+
+#: lbfa_widget.php:319
+msgid "Custom CSS"
+msgstr ""
+
+#: lbfa_widget.php:330
+msgid ""
+"This plugin is available <strong>free of charge</strong>. However, if you "
+"enjoyed it and would like to support us, you can use the PayPal donate link "
+"below to contribute. Thank you!."
+msgstr ""
+
+#: lbfa_widget.php:338
+msgid "Looking for more?"
+msgstr ""
+
+#: lbfa_widget.php:339
+msgid ""
+"For more plugins and themes please visit our website: <a "
+"href=\"https://wordpress.like.agency\" target=\"_blank\">LIKE.agency for "
+"Wordpress</a>."
+msgstr ""
+
+#: lbfa_widget.php:346
+msgid ""
+"If you want to add custom style for widget elements, you can overwrite "
+"default styles by using following widget classes in your custom stylesheet. "
+"Just copy, paste, edit and save them in the <strong>Custom CSS "
+"Stylesheet</strong> section."
+msgstr ""
+
+#: lbfa_widget.php:349
+msgid "Class names used for widget elements"
+msgstr ""
+
+#: lbfa_widget.php:351
+msgid "Widget title style"
+msgstr ""
+
+#: lbfa_widget.php:351
+msgid "use <strong>.lbfa-heading</strong> selector, e.g."
+msgstr ""
+
+#: lbfa_widget.php:357
+msgid "Text content style"
+msgstr ""
+
+#: lbfa_widget.php:357
+msgid "use <strong>.lbfa-text</strong> selector, e.g."
+msgstr ""
+
+#: lbfa_widget.php:362
+msgid "Text content style for left aligned icon"
+msgstr ""
+
+#: lbfa_widget.php:362
+msgid "use <strong>.lbfa-wrapper--left .lbfa-text</strong> selector, e.g."
+msgstr ""
+
+#: lbfa_widget.php:368
+msgid "Text content style for right aligned icon"
+msgstr ""
+
+#: lbfa_widget.php:368
+msgid "use <strong>.lbfa-wrapper--right .lbfa-text</strong> selector, e.g."
+msgstr ""
+
+#: lbfa_widget.php:374
+msgid "Text content style for top aligned icon"
+msgstr ""
+
+#: lbfa_widget.php:374
+msgid "use <strong>.lbfa-wrapper--top .lbfa-text</strong> selector, e.g."
+msgstr ""
+
+#: lbfa_widget.php:383
+msgid "FontAwesome icon style"
+msgstr ""
+
+#: lbfa_widget.php:383
+msgid "use <strong>.lbfa-wrapper-icon .fa </strong> selector, e.g."
+msgstr ""
+
+#: lbfa_widget.php:393
+msgid "FontAwesome icon wrapper style"
+msgstr ""
+
+#: lbfa_widget.php:393
+msgid "use <strong>.lbfa-wrapper-icon</strong> selector, e.g."
+msgstr ""
+
+#: lbfa_widget.php:404
+msgid "Button style"
+msgstr ""
+
+#: lbfa_widget.php:404
+msgid ""
+"use <strong>.lbfa-button</strong> selector, and <strong>.lbfa-button:hover "
+"</strong> selector for hover effect, e.g."
+msgstr ""
+
+#: lbfa_widget.php:445
+msgid "Custom CSS stylesheet"
+msgstr ""
+
+#: lbfa_widget.php:446
+msgid "Paste your custom styles here using provided selectors:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://like.agency/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows you to add a widget with custom text, link, FontAwesome "
+"icon and a custom button. <strong>In order for this plugin to work, please "
+"make sure you use FontAwesome toolkit in your theme.</strong> If not, "
+"follow <a href=\"http://fontawesome.io/\" target=\"_blank\" "
+"rel=\"nofollow\">this link</a> to get it. Have fun!"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.like.agency/plugins/button-widget-fontawesome/"
+msgstr ""

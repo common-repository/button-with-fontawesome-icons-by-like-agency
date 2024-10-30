@@ -1,0 +1,147 @@
+.lbfa-is-link-opt {
+    display: none;
+}
+
+.lbfa-chbox-is-link:checked ~ .lbfa-is-link-opt {
+    display: block;
+}
+
+.lbfa-inp-btn {
+    display: none;
+    margin-bottom: 10px;
+}
+
+.lbfa-inp-btn-class {
+    display: none;
+}
+
+.lbfa-chbox-btn:checked ~ .lbfa-inp-btn {
+    display: block;
+}
+
+.lbfa-chbox-btn-class:checked ~ .lbfa-inp-btn-class {
+    display: block;
+}
+
+.lbfa-options input[type="text"] {
+    width: 100%;
+}
+
+.lbfa-options textarea {
+    width: 100%;
+    min-height: 100px;
+}
+
+.lbfa-options {
+    margin-bottom: 10px;
+}
+
+.lbfa-divider {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px solid #e2e2e2;
+}
+
+.lbfa-opt-heading {
+    display: block;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 4px;
+}
+
+.lbfa-opt-info {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.lbfa-icon-styles input[type="radio"] {
+    margin: 0 5px 4px 0;
+}
+
+.lbfa-url-opt {
+    margin-bottom: 10px;
+}
+
+.lbfa-btn-style {
+    margin-top: 10px;
+}
+
+.lbfa-opt-css {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.lbfa-opt-css::after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+.lbfa-opt-examples > ul >li {
+    margin: 1rem .5rem .5rem 1rem;
+    text-indent: -1rem;
+}
+
+.lbfa-opt-desc {
+    display: block;
+    background-color: #FFF;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.lbfa-opt-desc pre {
+    margin: 0 1rem;
+    white-space: pre-wrap;
+}
+
+@media screen and (min-width: 768px) {
+    .lbfa-opt-examples > ul {
+        padding-right: 20px;
+        border-right: 1px solid #ddd;
+    }
+    .lbfa-css-form {
+        width: 50%;
+        float: left;
+    }
+    .lbfa-opt-examples {
+        width: 50%;
+        padding-right: 20px;
+        max-width: 400px;
+        float: left;
+        box-sizing: inherit;
+    }
+    .lbfa-css-form form p.submit {
+        text-align: right;
+    }
+}
+
+.lbfa-css-form form {
+    box-sizing: inherit;
+}
+
+.lbfa-css-form form table {
+    margin-top: 0;
+}
+
+.lbfa-css-form form th, .lbfa-css-form form td {
+    display: block;
+    padding: 0;
+    width: 100%;
+    font-size: 13px;
+}
+
+.lbfa-css-form form th {
+    margin-bottom: 1.8rem;
+}
+
+.lbfa-css-form textarea {
+    width: 100%;
+    min-height: 500px;
+    resize: none;
+}
+
+.lbfa-contribution input[type="image"] {
+    margin: 10px 0 10px 25px;
+}
